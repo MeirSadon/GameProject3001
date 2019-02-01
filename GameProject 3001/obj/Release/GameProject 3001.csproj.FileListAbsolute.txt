@@ -1,0 +1,6 @@
+C:\Users\Owner\source\repos\GameProject 3001\GameProject 3001\bin\Release\GameProject 3001.exe.config
+C:\Users\Owner\source\repos\GameProject 3001\GameProject 3001\bin\Release\GameProject 3001.exe
+C:\Users\Owner\source\repos\GameProject 3001\GameProject 3001\bin\Release\GameProject 3001.pdb
+C:\Users\Owner\source\repos\GameProject 3001\GameProject 3001\obj\Release\GameProject 3001.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\GameProject 3001\GameProject 3001\obj\Release\GameProject 3001.exe
+C:\Users\Owner\source\repos\GameProject 3001\GameProject 3001\obj\Release\GameProject 3001.pdb
